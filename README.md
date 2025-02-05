@@ -32,7 +32,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/rahulxqmoz/Netflix_Clone]
+git clone https://github.com/rahulxqmoz/Netflix_Clone
 cd netflix-clone
 ```
 
